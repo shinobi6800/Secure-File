@@ -1,8 +1,8 @@
-Secure File
+#Secure File
 Secure File is a full-stack web application designed to allow users to securely upload, encrypt, and decrypt files. This application uses modern technologies to ensure your files are protected with encryption, offering a seamless experience for both users and administrators. Whether you need to securely share sensitive documents or protect your personal files, Secure File provides a safe and easy-to-use solution.
 
-Table of Contents
-Features
+#Table of Contents
+#Features
 Technologies
 Backend Setup
 Frontend Setup
@@ -22,11 +22,11 @@ Multer: Middleware for handling multipart/form-data, used for file uploads.
 Crypto: Node.js built-in module for file encryption and decryption.
 Frontend:
 
-React.js: Frontend framework for building the user interface.
+#React.js: Frontend framework for building the user interface.
 Tailwind CSS: Utility-first CSS framework to design the application with minimal effort and a responsive layout.
 Database: Can be extended to use a database (e.g., MongoDB) to store file metadata and user data if needed.
 
-Backend Setup
+#Backend Setup
 1. Clone the repository
 bash
 Copy
@@ -41,7 +41,7 @@ npm install
 3. Configure your environment variables
 Create a .env file in the root of the backend directory and add the following:
 
-makefile
+#makefile
 Copy
 Edit
 PORT=5000
