@@ -48,5 +48,5 @@ Whether you're sharing sensitive documents or safeguarding your personal files, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/secure-file.git
-cd secure-file/backend
+git clone https://github.com/shinobi6800/Secure-File.git
+
