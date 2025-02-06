@@ -2,7 +2,7 @@
 
 **Secure File** is a full-stack web application that enables users to securely upload, encrypt, and decrypt files. Using modern technologies like **Express**, **Multer**, and **Crypto** on the backend, and **React** with **Tailwind CSS** on the frontend, **Secure File** ensures your files are encrypted and protected at all stages.
 
-Whether you're sharing sensitive documents or safeguarding your personal files, **Secure File** provides a simple, secure, and intuitive experience for everyone. 😎
+Whether you're sharing sensitive documents or safeguarding your personal files, **Secure File** provides a simple, secure, and intuitive experience for everyone.😎
 
 ---
 
