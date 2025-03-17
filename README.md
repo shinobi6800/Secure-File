@@ -4,7 +4,7 @@
 
 Whether you're sharing sensitive documents or safeguarding your personal files, **Secure File** provides a simple, secure, and intuitive experience for everyone.😎
 
----
+--------------------------------------------------------------------------------------------------------------------
 
 ## 📑 **Table of Contents**
 
